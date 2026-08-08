@@ -24,7 +24,7 @@
     "contentlayer": "^0.3.1",
     "geist": "^1.7.2",
     "jose": "^5.9.6",
-    "next": "^15.5.12",
+    "next": "^16.3.0",
     "next-auth": "^4.24.15",
     "next-contentlayer": "^0.3.1",
     "openai": "^5.15.0",
